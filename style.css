@@ -1,0 +1,96 @@
+
+ .tutor{
+     background-color: rgb(4, 5, 88);
+    height: 600px;
+    width: 1200px;
+    border-radius: 50px;
+    position: relative;
+    bottom: -50px;
+} 
+.tou{
+     background-color: rgb(4, 5, 88);
+    border: 5px solid white;
+    height: 520px;
+    width: 1150px;
+    border-radius: 50px;
+    position: relative;
+    bottom: -35px;
+}
+
+.imm3{
+    width: 30px;
+    border-radius: 25px;
+    position: relative;
+    left: -550px;
+    top: 300px;
+}
+.imm4{
+    width: 30px;
+    border-radius: 25px;
+    position: relative;
+    left: 550px;
+    bottom: 380px;
+}
+h1{
+    color: white;
+    position: relative;
+    left: -250px;
+    top: 130px;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tor{
+    position: relative;
+    bottom: 100px;
+}
+span{
+    color: blue;
+}
+.hr1{
+    position: relative;
+    top: 100px;
+    left: -435px;
+}
+.par{
+    color: rgb(220, 233, 220);
+    position: relative;
+    font-size: 20px;
+    top: 120px;
+    left: -250px;
+}
+.imm1{
+    position: relative;
+    top: -140px;
+    border-radius: 50px;
+    left: 350px;
+    width: 300px;
+}
+.btn{
+    position: relative;
+    top: -150px;
+    color: white;
+    left: -521px;
+    width: 150px;
+    height: 50px;
+    font-size: 17px;
+    background-color: rgb(124, 180, 248);
+    border-radius: 20px;
+    border: none;
+}
+.btn:hover{
+    position: relative;
+    top: -150px;
+    color: rgb(17, 62, 186);
+    left: -521px;
+    transition: 1.2s;
+    width: 150px;
+    height: 50px;
+    font-size: 17px;
+    background-color: rgb(241, 244, 247);
+    border-radius: 20px;
+    border: none;
+}
+
+
+
+
